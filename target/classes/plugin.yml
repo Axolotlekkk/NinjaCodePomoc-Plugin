@@ -1,0 +1,14 @@
+name: NinjaCodePomoc
+version: '1.1'
+author: Axolotlekkk#1043
+main: xyz.axo.wildhc.ninjacodepomoc.NinjaCodePomoc
+api-version: 1.18
+commands:
+  pomocreload:
+    description: Komenda przeladowywujaca plugin NinjaCodePomoc
+    usage: Poprawne uzycie komendy to /<command>
+    permission: ninjacode.pomoc.reload
+  pomoc:
+    description: Komenda /pomoc z pluginu NinjaCodePomoc
+    usage: Poprawne uzycie komendy to /<command>
+

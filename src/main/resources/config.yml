@@ -1,0 +1,14 @@
+#
+# NinjaCode - Plugin na /pomoc
+# Bledy zglaszaj na pv do Axolotlekkk#1043
+#
+text:
+  - "&e--- POMOC ---"
+  - " "
+  - "&bKomendy:"
+  - " "
+  - "&c/vip - Opis co ma ranga"
+  - "&c/svip - Opis co ma ranga"
+  - "&c/gvip - Opis co ma ranga"
+  - "&c/mvip - Opis co ma ranga"
+  - " "
